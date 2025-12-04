@@ -1,0 +1,4 @@
+/home/slim/Cursor/pkdroid/PKDroid/obj/Debug/net8.0-android/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/home/slim/Cursor/pkdroid/PKDroid/obj/Debug/net8.0-android/build.props
+/home/slim/Cursor/pkdroid/PKDroid/obj/Debug/net8.0-android/adb.props
+/home/slim/Cursor/pkdroid/PKDroid/obj/Debug/net8.0-android/_CompileBindingJava.FileList.txt
